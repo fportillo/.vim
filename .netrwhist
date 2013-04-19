@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/francisco/grails_apps/sysvagas20'
+let g:netrw_dirhist_2='/Users/francisco'
+let g:netrw_dirhist_3='/Users/francisco/grails_apps/sysvagas20'
+let g:netrw_dirhist_4='/Users/francisco/Dropbox/sysvagas20'
+let g:netrw_dirhist_5='/Users/francisco/Daitan/Ribbit/p4/src/rest/development/secure-perimeter/SecurityCommon/build'
+let g:netrw_dirhist_6='/Users/francisco/rails_apps/depot/.git'
